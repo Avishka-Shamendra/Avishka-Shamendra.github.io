@@ -6,9 +6,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Academics"
+    url: /academics/
+
   - title: "Awards"
     url: /awards/
 
-  - title: "Academics"
-    url: /academics/
+  - title : "Blog"
+    url: "/blog/"
+
+  
   
