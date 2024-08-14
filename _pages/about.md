@@ -16,11 +16,13 @@ My final year thesis project was "TruFass - A Trust Verification Framework for F
 
 Research Interests
 ------
-- Serverless Computing
-- Edge Computing
+- Cybersecurity
+- Cloud Security
 - Cloud Architecture
 - Trusted Comptuing
-- Cloud Security
+- Serverless Computing
+- Edge Computing
+
 
 Technical Strengths
 ------
