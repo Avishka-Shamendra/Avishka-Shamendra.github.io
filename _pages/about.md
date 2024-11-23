@@ -7,27 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer at WSO2 LLC, Sri Lanka/USA. My current research interests lie in Serverless Computing, Edge Computing, Cloud Architecture, Trusted Computing and
-Cloud Security.
 
-I completed my Bachelor's in Engineering with First Class Honours in Computer Science and Engineering (CSE) from the University of Moratuwa, Sri Lanka, and was awarded the IBM Gold Medal for the best academic performance in Computer Science and Engineering.
+I am a recent Computer Science graduate with a strong passion for system security and privacy. **My research interests lie in building secure, trustworthy and privacy-preserving computing systems**. I particularly enjoy the constant evolution of the security domain, where new security solutions are continuously tested and challenged.
 
-My final year thesis project was "TruFass - A Trust Verification Framework for FaaS". This research aimed to introduce a novel trust verification framework architecture to calculate and verify the trust of functions on a FaaS platform. Additionally, I have worked on many projects related to web and cloud technologies during my university years.
+I completed my Bachelor’s in Engineering with First Class Honours in Computer Science and Engineering (CSE) and was honored with the IBM Gold Medal for the best academic performance in the discipline.
 
-Research Interests
-------
-- Cybersecurity
-- Cloud Security
-- Cloud Architecture
-- Trusted Comptuing
-- Serverless Computing
-- Edge Computing
+For my undergraduate research project, I worked on "TruFass - A Trust Verification Framework for FaaS," which aimed to develop a novel framework for calculating and verifying the trust of functions on Function-as-a-Service (FaaS) platforms. In addition to this, I contributed to various projects related to computer security, software engineering, mobile computing and cloud technologies during my time at university.
 
+Currently, I am working as a full-time Software Engineer at WSO2 LLC, where I have gained industry experience in topics related to system security, cloud computing, and AI.
 
-Technical Strengths
-------
-- **Programming Languages:** Java, Python, Go, JavaScript
-- **Cloud:** Kubernetes, Docker
-- **Databases:** MySQL, PostgreSQL, H2, MongoDB, Cloud Firestore
-- **Web Development:** Django, Node.js, Express, React
-- **Mobile Development:** Flutter
+According to ChatGPT my life looks like this :)
+
+<img src="{{ site.baseurl }}/assets/Prof.webp" alt="My Life" width="400" />
+

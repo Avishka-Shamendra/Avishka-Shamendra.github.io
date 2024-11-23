@@ -7,6 +7,10 @@ author_profile: true
 
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
+<a class="embedly-card" href="https://asnshamendra.medium.com/querying-wso2-api-m-indexed-data-using-an-external-solr-server-687d24ea46d8" 
+   data-card-width="400" 
+   data-card-height="200">Querying WSO2 API-M Indexed Data Using an External Solr Server</a>
+
 <a class="embedly-card" href="https://medium.com/@asnshamendra/write-deploy-functions-on-openfaas-d089d096eaf9" 
    data-card-width="400" 
    data-card-height="200">Write & Deploy Functions on OpenFaaS</a>

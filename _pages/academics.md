@@ -5,9 +5,7 @@ permalink: /academics/
 author_profile: true
 ---
 
-## A Selection of Undergraduate Modules
-
-While following these modules, through theoretical study, practical projects, and related research,  I discovered my passion for cloud-based computing and in the domain of computer security. 
+## A Selection of Undergraduate Modules 
 
 ### Security and Architecture
 - CS 3052 Computer Security
