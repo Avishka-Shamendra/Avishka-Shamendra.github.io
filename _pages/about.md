@@ -16,7 +16,7 @@ For my undergraduate research project, I worked on "TruFass - A Trust Verificati
 
 Currently, I am working as a full-time Software Engineer at WSO2 LLC, where I have gained industry experience in topics related to system security, cloud computing, and AI.
 
-According to ChatGPT my life looks like this :)
+<!-- According to ChatGPT my life looks like this :)
 
-<img src="{{ site.baseurl }}/assets/Prof.webp" alt="My Life" width="400" />
+<img src="{{ site.baseurl }}/assets/Prof.webp" alt="My Life" width="400" /> -->
 
