@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Portfolio"
 title_separator          : "-"
 name                     : &name "Avishka Shamendra"
-description              : &description "Software Engineer, WSO2 LLC."
+description              : &description "PhD Student, Stony Brook University"
 url                      : https://Avishka-Shamendra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Avishka-Shamendra/Avishka-Shamendra.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "profpic.jpg"
   name             : "Avishka Shamendra"
   pronouns         : # example: "she/her"  
-  bio              : "Software Engineer, WSO2 LLC."
-  location         : "Colombo, Sri Lanka"
+  bio              : "PhD Student, Stony Brook University"
+  location         : "New York, USA"
   employer         : # "WSO2 LLC"
   uri              : # URL
-  email            : "avishka98official@gmail.com"
+  email            : "ashamendra@cs.stonybrook.edu"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

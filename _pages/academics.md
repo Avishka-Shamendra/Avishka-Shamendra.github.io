@@ -5,6 +5,13 @@ permalink: /academics/
 author_profile: true
 ---
 
+## PhD Qualifier Graduate Modules 
+
+- CSE 509 System Security - A (Fall 25)
+- CSE 512 Machine Learning - A (Fall 25)
+- CSE 508 Network Security - In progress (Spring 26)
+- CSE 519 Fundamentals of Data Science - In progress (Spring 26)
+
 ## A Selection of Undergraduate Modules 
 
 ### Security and Architecture

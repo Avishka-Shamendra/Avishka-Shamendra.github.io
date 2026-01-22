@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a recent Computer Science graduate with a strong passion for system security and privacy. **My research interests lie in building secure, trustworthy and privacy-preserving computing systems**. I particularly enjoy the constant evolution of the security domain, where new security solutions are continuously tested and challenged.
+I am a first year PhD student in Computer Science at Stony Brook University, NY, with a strong passion for system security and privacy. **My research interests lie in building secure, trustworthy and privacy-preserving computing systems**. I particularly enjoy the constant evolution of the security domain, where new security solutions are continuously tested and challenged. Recently, I have become intrigued by the security issues surrounding AI agents, both the security of AI agents themselves and the security risks introduced by their use
 
 I completed my Bachelor’s in Engineering with First Class Honours in Computer Science and Engineering (CSE) and was honored with the IBM Gold Medal for the best academic performance in the discipline.
 
